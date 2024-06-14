@@ -3,7 +3,6 @@ locale: "en-US"
 title: "Mohd Amaan / Data Scientist"
 title_separator: "-"
 name: &name "Mohd Amaan"
-description: &description "Highly motivated and dynamic Data Scientist with over 2.5 years of experience in software development, showcasing mastery in diverse programming languages and specializing in strategic machine learning models."
 url: "" # Replace with your custom URL if available
 baseurl: ""
 
@@ -11,7 +10,6 @@ baseurl: ""
 author:
   avatar: "profile.png"
   name: "Mohd Amaan"
-  bio: "I am a highly motivated and dynamic Data Scientist with over 2.5 years of experience in software development, showcasing mastery in diverse programming languages such as Python, Java, and more. I specialize in crafting and deploying strategic machine learning models, demonstrating expertise in data cleaning, feature engineering, and model evaluation."
   location: "Lucknow, Uttar Pradesh, India"
   employer: "Clavis Technologies Pvt. Ltd."
   email: "mohdamaan00007777@gmail.com"
