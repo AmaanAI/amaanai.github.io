@@ -1,12 +1,23 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your entire site, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# `jekyll serve -l -H localhost`. If you change this file, please restart the 
+# server process.
+
 # Basic Site Settings
 locale: "en-US"
 title: "Mohd Amaan / Data Scientist"
 title_separator: "-"
 name: &name "Mohd Amaan"
-url: "amaanai.github.io" # Replace with your custom URL if available
+description              : &description "personal description"
+url: "amaanai.github.io"
 baseurl: ""
 
-# Site Author
+# Site Author - The following control what appear as part of the author content on the side bar.
+#               If a field is blank the icon and link will not appear, otherwise it will be shown.
+#               Additional customization can be done by editing /_includes/author-profile.html
 author:
   avatar: "profile.png"
   name: "Mohd Amaan"
@@ -14,6 +25,8 @@ author:
   employer: "Clavis Technologies Pvt. Ltd."
   email: "mohdamaan00007777@gmail.com"
 
+  orcid            : "http://orcid.org/yourorcidurl"
+  instagram        : # Username
 # Site Settings
 breadcrumbs: false
 words_per_minute: 160
