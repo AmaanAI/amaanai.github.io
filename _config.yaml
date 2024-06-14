@@ -4,9 +4,8 @@ title: "Mohd Amaan / Data Scientist"
 title_separator: "-"
 name: &name "Mohd Amaan"
 description: &description "Highly motivated and dynamic Data Scientist with over 2.5 years of experience in software development, showcasing mastery in diverse programming languages and specializing in strategic machine learning models."
-url: https://amaanai.github.io
+url: "" # Replace with your custom URL if available
 baseurl: ""
-repository: "amaanai.github.io"
 
 # Site Author
 author:
@@ -16,16 +15,6 @@ author:
   location: "Lucknow, Uttar Pradesh, India"
   employer: "Clavis Technologies Pvt. Ltd."
   email: "mohdamaan00007777@gmail.com"
-
-  # Academic websites
- 
-  orcid: "http://orcid.org/yourorcidurl"
-
-  # Repositories and software development
-  github: "amaanai.github.io"
-
-  # Social media
-  instagram: "thefitfoodblogger"
 
 # Site Settings
 breadcrumbs: false
@@ -37,7 +26,15 @@ comments:
 atom_feed:
   hide: false
 
+# SEO Related
+google_site_verification: ""
+bing_site_verification: ""
+alexa_site_verification: ""
+yandex_site_verification: ""
 
+# Analytics
+analytics:
+  provider: false
 
 # Reading Files
 include:
