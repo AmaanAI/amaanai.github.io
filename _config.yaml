@@ -4,9 +4,9 @@ title: "Mohd Amaan / Data Scientist"
 title_separator: "-"
 name: &name "Mohd Amaan"
 description: &description "Highly motivated and dynamic Data Scientist with over 2.5 years of experience in software development, showcasing mastery in diverse programming languages and specializing in strategic machine learning models."
-url: https://aunkidwai.github.io
+url: https://amaanai.github.io
 baseurl: ""
-repository: "academicpages/academicpages.github.io"
+repository: "amaanai.github.io"
 
 # Site Author
 author:
@@ -18,9 +18,8 @@ author:
   email: "mohdamaan00007777@gmail.com"
 
   # Academic websites
-  googlescholar: "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+ 
   orcid: "http://orcid.org/yourorcidurl"
-  pubmed: "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
 
   # Repositories and software development
   github: "amaanai.github.io"
@@ -38,15 +37,7 @@ comments:
 atom_feed:
   hide: false
 
-# SEO Related
-google_site_verification: ""
-bing_site_verification: ""
-alexa_site_verification: ""
-yandex_site_verification: ""
 
-# Analytics
-analytics:
-  provider: false
 
 # Reading Files
 include:
